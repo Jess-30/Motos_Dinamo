@@ -494,31 +494,30 @@ color: #000000;
 
 }
 @media screen and(max-width:500px){
-    
-.menu-navegacion{
-    width: 65vw;
-}
-.hamburguer{
-    top:20px;
-    right: 20px;
-}
-.titulo{
-    font-size: 30px;
-}
-.subtitulo{
-    font-size: 30px;
-}
-.agregar-imagen{
-    width: 95%;
-}
-.img-galeria{
-    width: 95%;
-}
-.social-media{
-    width: 100%;
-}
-.contact-us{
-    width: 90%;
-}
-    
-}
+    .menu-navegacion{
+        width: 65vw;
+    }
+    .hamburguer{
+        top:20px;
+        right: 20px;
+    }
+    .titulo{
+        font-size: 30px;
+    }
+    .subtitulo{
+        font-size: 30px;
+    }
+    .agregar-imagen{
+        width: 95%;
+    }
+    .img-galeria{
+        width: 95%;
+    }
+    .social-media{
+        width: 100%;
+    }
+    .contact-us{
+        width: 90%;
+    }
+        
+    } 
